@@ -1,8 +1,8 @@
-🚀 Helplytics AI
+🚀 #Helplytics AI
 
 AI-powered community support platform to connect learners with helpers.
 
-🌍 Overview
+🌍 ##Overview
 
 Helplytics AI is a modern community-driven platform where users can ask for help, provide help, and grow together.
 
